@@ -1,4 +1,4 @@
-public class buy_and_sell_stock{
+public class best_time_to_buy_and_sell_stock{
     public int maxProfit(int[] prices) {
         int minprice=Integer.MAX_VALUE;
         int maxprofit=0;
