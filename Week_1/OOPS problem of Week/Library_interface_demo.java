@@ -2,6 +2,7 @@ interface Library_User {
     void register_Account();
     void request_Book();
 }
+
  class Kid_Users implements LibraryUser {
     int age;
     String book_Type;
